@@ -1,22 +1,16 @@
 {
   "tasks": [
     {
-      "text": "Test4",
-      "day": "Wednesday",
-      "reminder": false,
-      "id": 3
-    },
-    {
-      "text": "Task6",
-      "day": "Thursday",
+      "text": "Take Test",
+      "day": "Monday",
       "reminder": true,
-      "id": 4
+      "id": 8
     },
     {
-      "text": "Watch movie",
-      "day": "Thurs",
-      "reminder": false,
-      "id": 5
+      "text": "Visit Sister",
+      "day": "Saturday",
+      "reminder": true,
+      "id": 9
     }
   ]
 }
