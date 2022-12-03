@@ -1,4 +1,6 @@
+# task-list-react
 
+This task tracker app is a basic todo tracker that accumulates tracked tasks that can be added into a list and removed when completed.
 
 https://user-images.githubusercontent.com/73509044/194970356-bfd396f5-b684-41c1-a55e-bb7fb3a0a450.mp4
 
